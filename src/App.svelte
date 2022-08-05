@@ -7,14 +7,11 @@
     import Sidebar from "./lib/Sidebar.svelte";
     import Footer from "./lib/Footer.svelte";
 
-    let secret =
-        "NFFWU4JhKWpABBh2iK7a54Ika6slfPYXjeIj0EoCjjp8LwZFml7z85as8HBfgAr8";
-
     const client = new ApolloClient({
         uri: "https://guided-seahorse-31.hasura.app/v1/graphql",
         headers: {
             "content-type": "application/json",
-            "x-hasura-admin-secret": secret,
+            "x-hasura-public": "public"
         },
         cache: new InMemoryCache(),
     });
