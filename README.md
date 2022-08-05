@@ -10,12 +10,12 @@ Okay-POS is a small front-end project I made up to learn about a few technologie
 *I used [Vercel](https://vercel.com/) to host and build the app straight from this GitHub Repo. They offer such a nice, accessible service to people starting out in web development.*
 
 
-### **~ A Few Thoughts ~**
+### ~ A Few Thoughts ~
 Svelte proved to be very easy to pick up considering I had little front-end experience. I can understand why it's topping the web framework category on the [Stack Overflow Survey](https://survey.stackoverflow.co/2022/#most-loved-dreaded-and-wanted-webframe-love-dread).
 
 Tailwind also proved to be very easy to pick up. It's quite intuitive and composable. Looking forward to using it again, there are so many other nice features that make professional front end development so accessible.
 
-### **~ To Do ~**
+### ~ To Do ~
 - [ ] fix some style inconsistencies
 - [ ] add more styling
 - [ ] implement some type of auth system
