@@ -15,6 +15,15 @@ Svelte proved to be very easy to pick up considering I had little front-end expe
 
 Tailwind also proved to be very easy to pick up. It's quite intuitive and composable. Looking forward to using it again, there are so many other nice features that make professional front end development so accessible.
 
+### ~ Security ~
+Hasura offers an easy UI to add/configure public API limits.
+
+- Depth Limits - restricts the depth of Graphql queries (10 max)
+- Node Limit - restricted to 3 max
+- Rate Limit - restricting Graphql operations per minute, in my case done on an IP address basis (100 max)
+
+I would definitely like to learn how to do this programmatically in the future.
+
 ### ~ To Do ~
 - [ ] fix some style inconsistencies
 - [ ] add more styling
