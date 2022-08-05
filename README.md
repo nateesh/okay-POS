@@ -29,3 +29,4 @@ I would definitely like to learn how to do this programmatically in the future.
 - [ ] add more styling
 - [ ] implement some type of auth system
 - [ ] add a 'previous orders' section
+- [ ] Test above security features with Burp Suite 
