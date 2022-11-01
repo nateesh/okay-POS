@@ -1,5 +1,5 @@
 # Okay-POS
-> you can find Okay-POS running at https://okay-pos.vercel.app/
+> you can find Okay-POS running at https://okay-pos.vercel.app/.</br> **Note the cloud database needs to be migrated to a new host for full functionality.**
 
 Okay-POS is a small front-end project I made up to learn about a few technologies I'm interested in:
 - ***Svelte:*** A front-end component-based JS framework used for creating reactive user-interfaces. Unlike virtual-DOM frameworks (like React or Vue), it compiles down to 'vanilla' JS code during the build step. This code updates the DOM when app state changes.
